@@ -69,6 +69,7 @@
 - Model 15 WC **(ca)**
 - Model 16 WC **(ca)**
 - Model 140 **(g)**
+- Model 1150D **(b)**
 
 #### McIntosh
 - MC 2105 WC **(s)**
