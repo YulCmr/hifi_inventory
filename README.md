@@ -144,6 +144,7 @@
 - 4400 REPORT MONITOR **(b)** (avec sacoche)
 - 4200 REPORT STEREO **(ca)** (avec sacoche)
 - 4200 REPORT MONITOR **(ca)** (avec sacoche)
+- 4200 REPORT STEREO IC **(b)** (avec sacoche et micro)
 - 4400 REPORT STEREO IC **(b)** (sans sacoche)
 - 4400 REPORT MONITOR **(ca)** (sans sacoche)
 - (2 sacoches vides noires) **(s)**
