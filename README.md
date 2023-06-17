@@ -17,6 +17,12 @@
 #### JBL
 - N/D **(c)**
 
+#### Marantz
+- Imperial 5 **(g)** (Eva)
+- Imperial 6 **(g)**
+
+#### Martin
+- Gamma 310 S **(g)**
 
 ## Tuners
 #### Marantz
@@ -28,6 +34,7 @@
 - Model 120 WC **(ca)**
 - Model 125 WC **(ca)**
 - Model 125 WC **(ca)**
+- Model 2120 **(g)**
 
 #### McIntosh
 - MR 78 WC **(s)**
@@ -36,10 +43,12 @@
 - B 760 **(b)**
 
 #### Kenwood
+- KT-7500 **(s)** (Eva ?)
 - KT-8300 **(ca)** (Eva ?)
 
 #### Sansui
 - TU-555 **(ca)**
+- TU-777 ***(g)***
 
 ## Préamplis
 #### Marantz
@@ -59,7 +68,7 @@
 - Model 3600 **(ca)**
 - Model 15 WC **(ca)**
 - Model 16 WC **(ca)**
-
+- Model 140 **(g)**
 
 #### McIntosh
 - MC 2105 WC **(s)**
@@ -69,6 +78,10 @@
 
 #### Sansui
 - AU 555 **(ca)**
+- AU 777 **(g)**
+
+#### Kenwood
+- KA-8100 **(s)**
 
 ## CD
 
@@ -114,6 +127,9 @@
 #### Thorens
 - TD 145 MKII **(b)**
 
+#### Hitachi
+- PS 38 **(s)**
+
 ## Magnetos
 
 #### Technics
@@ -130,6 +146,7 @@
 - 4200 REPORT MONITOR **(ca)** (avec sacoche)
 - 4400 REPORT STEREO IC **(b)** (sans sacoche)
 - 4400 REPORT MONITOR **(ca)** (sans sacoche)
+- (2 sacoches vides noires) **(s)**
 
 ## Equalizer
 #### Sansui
@@ -138,3 +155,8 @@
 ## SUB
 #### Energy
 - XL-S8 **(ca)**
+
+## Timers
+#### Marantz
+- AT-5 **(g)**
+- AT-5 **(g)**
