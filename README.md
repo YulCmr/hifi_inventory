@@ -17,12 +17,17 @@
 #### JBL
 - N/D **(c)**
 
+
 ## Tuners
 #### Marantz
 - Model 150 **(s)**
 - Model 112 WC **(c)**
 - Model 110 **(b)**
 - Model 2120 **(b)**
+- Model 115B **(ca)**
+- Model 120 WC **(ca)**
+- Model 125 WC **(ca)**
+- Model 125 WC **(ca)**
 
 #### McIntosh
 - MR 78 WC **(s)**
@@ -30,9 +35,16 @@
 #### Revox
 - B 760 **(b)**
 
+#### Kenwood
+- KT-8300 **(ca)** (Eva ?)
+
+#### Sansui
+- TU-555 **(ca)**
+
 ## Préamplis
 #### Marantz
 - Model 3200 WC **(c)**
+- Model 7T WC **(c)**
 
 #### McIntosh
 - C 26 WC **(s)**
@@ -41,12 +53,22 @@
 #### Marantz
 - Model 1250 **(s)**
 - Model 140 WC **(c)**
+- Model 250M WC **(ca)**
+- Model 1120 WC **(ca)**
+- Model 3300 WC **(ca)**
+- Model 3600 **(ca)**
+- Model 15 WC **(ca)**
+- Model 16 WC **(ca)**
+
 
 #### McIntosh
 - MC 2105 WC **(s)**
 
 #### Revox
 - B 750 **(b)**
+
+#### Sansui
+- AU 555 **(ca)**
 
 ## CD
 
@@ -55,6 +77,7 @@
 
 ### Philips
 - CD104 **(c)**
+- CD204 **(ca)**
 
 ## Intégrés
 
@@ -62,10 +85,17 @@
 - Model 2010 **(c)**
 - Model 2015 + WC **(c)**
 - Model 2015 **(b)**
+- Model 4140 WC **(ca)**
+- Model 4240 WC **(ca)**
+- Model 2270 WC **(ca)**
 
 ## Cassettes
 #### Nakamichi
 - BX-2 **(b)**
+
+#### Marantz
+- Model 5220 WC **(ca)**
+- Model 5025B **(ca)**
 
 ## Platines
 #### Garrard
@@ -95,5 +125,16 @@
 
 #### UHER
 - SG 561 ROYAL **(b)**
-- 4400 REPORT MONITOR **(b)**
-- 4400 REPORT STEREO IC **(b)**
+- 4400 REPORT MONITOR **(b)** (avec sacoche)
+- 4200 REPORT STEREO **(ca)** (avec sacoche)
+- 4200 REPORT MONITOR **(ca)** (avec sacoche)
+- 4400 REPORT STEREO IC **(b)** (sans sacoche)
+- 4400 REPORT MONITOR **(ca)** (sans sacoche)
+
+## Equalizer
+#### Sansui
+- SE-9 **(ca)**
+
+## SUB
+#### Energy
+- XL-S8 **(ca)**
