@@ -11,9 +11,6 @@
 #### DAHLQUIST
 - MODEL DQ-10 **(s)**
 
-#### JBL
-- N/D **(c)**
-
 #### Marantz
 - Imperial 5 **(g)** (Eva)
 - Imperial 6 **(g)**
@@ -29,7 +26,6 @@
 - Model 2120 **(b)**
 - Model 115B **(ca)**
 - Model 120 WC **(ca)**
-- Model 125 WC **(ca)**
 - Model 125 WC **(ca)**
 - Model 2120 **(g)**
 
@@ -62,9 +58,7 @@
 - Model 250M WC **(ca)**
 - Model 1120 WC **(ca)**
 - Model 3300 WC **(ca)**
-- Model 3600 **(ca)**
 - Model 15 WC **(ca)**
-- Model 16 WC **(ca)**
 - Model 140 **(g)**
 - Model 1150D **(b)**
 
@@ -109,8 +103,6 @@
 - Model 5025B **(ca)**
 
 ## Platines
-#### Garrard
-- Garrard 401 **(s)**
 
 #### Ariston Audio
 - RD 11S **(s)**
