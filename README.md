@@ -154,5 +154,5 @@
 
 ## Pieds 
 #### Norstone 
-- 4 pieds de 60cm
+- 6 pieds de 60cm
 - 2 sets multi plateaux 56x50cm (5 plateaux ?)
